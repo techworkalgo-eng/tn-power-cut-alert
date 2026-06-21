@@ -21,7 +21,7 @@
       "to_time": "15:00"
     },
     {
-      "date": "2026-06-19",
+      "date": "2026-06-21",
       "town": "Erode",
       "substation": "VILLARASAMPATTY",
       "location_text": "Bharathiyar Nagar, Veerappanpalayam Bye Pass, Iyswarya Garden, Subramanian Nagar, Vettukattuvalaslu, Egle Garden, Karuvelparaivalasu, Attukamparai,  Sulai,  Annai Sathyya Nagar, Muthalithodam, Malli N",
@@ -30,10 +30,10 @@
       "to_time": "17:00"
     },
     {
-      "date": "2026-06-19",
+      "date": "2026-06-21",
       "town": "Erode",
       "substation": "Thaneerpandal 110/33-11 KV",
-      "location_text": "Avalpoondurai, Kanapuram, Thuyampundurai, Pundurai, Semoor, Palliyuthu, Thirumangalam, Chengalvalasu, Velampalayam, Rattaisutripalayam and K.A.S. Industries.",
+      "location_text": "Avalpoondurai, Kanapuram, Thuyampundurai, Pundurai, Semoor, Palliyuthu, Thirumangalam, Chengalvalasu, sen Sulai, Velampalayam, Rattaisutripalayam and K.A.S. Industries.",
       "work_type": "SS Maintenance works",
       "from_time": "09:00",
       "to_time": "17:00"
