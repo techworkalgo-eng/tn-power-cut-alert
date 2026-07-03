@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T20:23:44+0530",
+  "last_updated": "2026-07-03T20:24:44+0530",
   "data_valid_through": "2026-07-30",
   "outages": [
     {
@@ -651,7 +651,7 @@
       "to_time": "14:00"
     },
     {
-      "date": "2026-07-04",
+      "date": "2026-07-03",
       "town": "karur",
       "substation": "VEPPAMPALAYAM",
       "location_text": "sanjai nagar, velusamy puram, arikaranpalayam, kothur, vadivel nagar,Govindampalayam, Andankoil, Viswanathapuri, Mochakottampalayam, chatram, pavithram",
@@ -1965,7 +1965,7 @@
       "to_time": "17:00"
     },
     {
-      "date": "2026-07-04",
+      "date": "2026-07-03",
       "town": "Keeranatham",
       "substation": "KEERANATHAM 110/33-22 KV",
       "location_text": "Keeranatham,Varathaiyangarpalayam, Idigarai,Athipalayam,Saravanampatty Some areas,Viswasapuram,RevenueNagar,Karantumedu,Villankuruchi some areas,Sivananthapuram,SathyRoad,SankaraVeethi,RaviTheatre,Vin",
