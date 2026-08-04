@@ -1,376 +1,36 @@
 {
-  "last_updated": "2026-08-01T23:38:02+0530",
+  "last_updated": "2026-08-04T05:56:21+0530",
   "data_valid_through": "2026-08-29",
   "outages": [
     {
-      "date": "2026-08-01",
-      "town": "AMBASAMUTHRAM",
-      "substation": "VICKRAMASINGAPURAM 110 / 33 -11 KV",
-      "feeder": "VICKRAMASINGAPURAM 110 / 33 -11 KV",
-      "location_text": "AALVANTHULUKAPATTI, OTHULUKAPATTI, SENGULAM, KABALIPAARAI, IDAIKAAL, ANAINTHA NAADARPATTI, THALAIYUTHU, PANAYANKURICHI, NAALANGATTALAI, KEELAKUTHAPANJAN, KASITHARMAM, MUKKUDAL, SINGAPAARAI, KALIDAIKUR",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "Annanji",
-      "substation": "ANNANJI 110/22 KV SS",
-      "feeder": "ANNANJI 110/22 KV SS",
-      "location_text": "Araipadithevanpatty, Sivaji Nagar, Karuvelnaykanpatti and its surrounding areas",
-      "work_type": "Maintenance Works",
-      "from_time": "10:36",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "Chidambaram",
-      "substation": "CHIDAMBARAM 110 KV",
-      "feeder": "CHIDAMBARAM 110 KV",
-      "location_text": "Chidambaram,Ammapettai,Manalur,Sivapuri,Pinnathur,Valampadugai,Vakkaramari,TN Puram,",
-      "work_type": "TSD maintenance",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "EX. GROUND  SS",
-      "substation": "EXHIBITION GROUND 33 KV",
-      "feeder": "EXHIBITION GROUND 33 KV",
-      "location_text": "TVL  TOWN, MELA RATHA VEETHI, THERKU RATHA VEETHI, VADAKU RATHA VEETHI, EXIBITION GROUND, TVL TOWN SN HIGH ROAD, POOMBUKAR, SREEPURAM, SIVANTHI ROAD, SUNDARA ST, BHARATHIYAR ST, CN VILLAGE, KURUKU THU",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "17:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "JAYANKONDAM",
-      "substation": "JAYANKONDAM 110 KV",
-      "feeder": "JAYANKONDAM 110 KV",
-      "location_text": "UTTKOTAIVARIYANKAVALTHULARANKURICHY",
-      "work_type": "Maintenance work",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "Ko Poovanur",
-      "substation": "KO-POOVANUR 110/33-11  KV",
-      "feeder": "KO-POOVANUR 110/33-11  KV",
-      "location_text": "Ko Poovanur,Aladi,ammari,AsanurKP Natham,Vijayamanagaram,Irulankurichi,Aladi.karnatham",
-      "work_type": "TSD maintenance",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "Kurinjipady",
-      "substation": "KURINJIPADY 110/33-11KV",
-      "feeder": "KURINJIPADY 110/33-11KV",
-      "location_text": "Kurinjipady,,Meenatchipettai,RN Puram,Kundiyamallur,serakuppam,Kollakudi,Kannady",
-      "work_type": "TSD maintenance",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "Lakkiyampatty",
-      "substation": "LAKKIYAMPATTY 110/11 KV SS",
-      "feeder": "LAKKIYAMPATTY 110/11 KV SS",
-      "location_text": "lakkiyampatty, barathipuram, senthilnagar, oddapatty, devarasampatty, housing board, errapatty",
-      "work_type": "maintenance",
-      "from_time": "09:00",
-      "to_time": "17:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "Metro",
-      "substation": "UKKADAM 110 KV",
-      "feeder": "UKKADAM 110 KV",
-      "location_text": "Variety Hall Road, Townhall, Oppanakara Street Area, T.K.Market Area, Selvapuram, Kempatty Colony Area, Karumbukkadai, Athupalayam Area, Ukkadam Area, ,Sungam,  Collectrate, Govt.Hospital, Railway Sta",
-      "work_type": "Maintenanace work",
-      "from_time": "09:00",
-      "to_time": "16:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "O THULUKKAPETTI",
-      "substation": "O.THULUKKAPATTI 110 KV",
-      "feeder": "O.THULUKKAPATTI 110 KV",
-      "location_text": "AALVANTHULUKAPATTI, OTHULUKAPATTI, SENGULAM, KABALIPAARAI, IDAIKAAL, ANAINTHA NAADARPATTI, THALAIYUTHU, PANAYANKURICHI, NAALANGATTALAI, KEELAKUTHAPANJAN, KASITHARMAM, MUKKUDAL, SINGAPAARAI, KALIDAIKUR",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "PALAYAPETTI",
-      "substation": "PALAYAPETTAI 110 KV",
-      "feeder": "PALAYAPETTAI 110 KV",
-      "location_text": "PALAYAPETTAI, GANDHI NAGAR, THIRUPANI KARISALKULAM, VAGAIKULAM, KUNNATHOOR, PETTAI, THOLIRPETTAI, PAATA PATHU, ABISHEGAPATTI, VAIYAPURI NAGAR",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "17:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "PANAGUDI",
-      "substation": "PANAGUDI 110 KV",
-      "feeder": "PANAGUDI 110 KV",
-      "location_text": "SIVAGAMIPURAM, PANAGUDI, KONGANTHAN, ROSMIYALPURAM, PUSHPAVANAM, SAITHAMMALPURAM, LEPPAIKUDI IRUPPU, THANDAYARKULAM, MUTHUSAMIPURAM, KAAVALKINARU, PAPANKULAM, KADAMBANKULAM, KALANTHAPANNAI, THALAVAIPU",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "PERUMALPETTI",
-      "substation": "PERUMALPATTY 110 KV",
-      "feeder": "PERUMALPATTY 110 KV",
-      "location_text": "PERUMALPATTI, MAANGUDI, INAM KOVILPATTI, ARUKANKULAMPUTHOOR, SENTHATIYAPURAM, ETTICHERI, THENMALAI, A. SUBRAMANIYAPURAM, IDAYANKULAM, MURAMBU, AASILAPURAM, KOONANKULAM, PARUVAKUDI, PANTHAPULI, P.REDDI",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "17:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "PULIYANKUDI",
-      "substation": "PULIYANGUDI",
-      "feeder": "PULIYANGUDI",
-      "location_text": "CHINTHAMANI, AYYAPURAM, RAJAGOPALAPERI, RATHINAPERI, INDRANAGAR, PUNAIYAPURAM, KADUVETI, SINGILIPATI, SANGANAPERI, CHIDAMBARAPERI, KANDHARESAPURAM, THIRIVETA NALLUR, THIRIKUDAPURAM, CHOKKAMPATI, MEL",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "Pallikaranai",
-      "substation": "ETL SS 110 KV",
-      "feeder": "PALLIKARANAI",
-      "location_text": "Pallikaranai Areas, Kamakoti Nagar,IIT Colony, Nagammal Avenue, VGP Rajesh Nagar, Ma.Po.Si. Nagar,NIOT",
-      "work_type": "Maintenance Work",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "Papanasam",
-      "substation": "110/11 KV PAPANASAM SS",
-      "feeder": "110/11 KV PAPANASAM SS",
-      "location_text": "Papanasam,kabisthalam",
-      "work_type": "Monthly maintenance,",
+      "date": "2026-08-04",
+      "town": "Adiyakkamangalam, Andipalayam,Neelapadi.",
+      "substation": "ADIYAKKAMANGALAM 33/11 KV SS",
+      "feeder": "11KV ADIYAKKAMANGALAM",
+      "location_text": "Adiyakkamangalam, Andipalayam,Neelapadi.",
+      "work_type": "Monthly Maintenance",
       "from_time": "09:00",
       "to_time": "15:00"
     },
     {
-      "date": "2026-08-01",
-      "town": "Pollachi",
-      "substation": "POLLACHI 110 KV",
-      "feeder": "POLLACHI 110 KV",
-      "location_text": "Pollachi Town, Vadugapalayam, Chinnampalayam, Unjavalampatti, Kanjampatti, Earipatti, Kottampatti, Puliyampatti, Aachipatti, Jothinagar, Sulasvaranpatti, Singanallur, Amparapalayam, Nallur, Jaminuthuk",
-      "work_type": "Maintanance",
-      "from_time": "09:00",
-      "to_time": "16:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "SAMBARVADAKARAI",
-      "substation": "SAMBAVARVADAKARAI 33/11 KV SS",
-      "feeder": "SAMBAVARVADAKARAI 33/11 KV SS",
-      "location_text": "SHENKOTTAI , KANAKUPILLAI VALASAI, PERIYA PILLAI VALASAI, PIRANOOR, VALLAM, KARKUDI, PULIYARAI, THERKU MEDU, POOLANGUDI IRUPPU, KATTALAI KUDI IRUPPU, SURRANDAI, IDAYAR THAVANAI, KULAYANERI, RETTAIKULA",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "SANKARANKOVIL",
-      "substation": "SANKARANKOIL 110 KV",
-      "feeder": "SANKARANKOIL 110 KV",
-      "location_text": "TOWN SANKARANKOIL, NGO A COLONY, KALAPAKULAM, PULIYAMPATTI, VAADIKOTTAI, PERIYOOR, MANALOOR, PERUMPATHOOR, RAMALINGAPURAM, VADAKUPUTHUR, NAGARAM MULLIKULAM, SEEVALARAAYANENDHAL, PERUNKOTTOR, ALAGAPURI",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "17:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "SHENKOTTAI",
-      "substation": "SENKOTTAI 110/11  KV",
-      "feeder": "SENKOTTAI 110/11  KV",
-      "location_text": "SHENKOTTAI , KANAKUPILLAI VALASAI, PERIYA PILLAI VALASAI, PIRANOOR, VALLAM, KARKUDI, PULIYARAI, THERKU MEDU, POOLANGUDI IRUPPU, KATTALAI KUDI IRUPPU, SURRANDAI, IDAYAR THAVANAI, KULAYANERI, RETTAIKULA",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "SURANDAI",
-      "substation": "SURANDAI 110 KV",
-      "feeder": "SURANDAI 110 KV",
-      "location_text": "SHENKOTTAI , KANAKUPILLAI VALASAI, PERIYA PILLAI VALASAI, PIRANOOR, VALLAM, KARKUDI, PULIYARAI, THERKU MEDU, POOLANGUDI IRUPPU, KATTALAI KUDI IRUPPU, SURRANDAI, IDAYAR THAVANAI, KULAYANERI, RETTAIKULA",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "Sithalapakkam,Medavakkam",
-      "substation": "TNSCB PERUMBAKKAM 110/33-11 KV SS",
-      "feeder": "TNSCB PERUMBAKKAM 110/33-11 KV SS",
-      "location_text": "1.Sankarapuram 2.ADP Avenue 3.Sithalapakkam main road part 4.Ottiyampakkam 5.Karanai main Road 6.Vedanthangal Nagar 7.Sai nagar 8.Nesamani Nagar 9.Mettu street 10.BSCBL and Bolineni .",
-      "work_type": "Maintenance Work",
-      "from_time": "09:00",
-      "to_time": "17:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "T.PALUR",
-      "substation": "T.PALUR (M)",
-      "feeder": "T.PALUR (M)",
-      "location_text": "ARANKOTTAI WATER WORKS,T.PALUR WATER WORKS,SOLAMADEVI,SRIPURANTHAN,K.V.KURICHI",
-      "work_type": "Maintenance work",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "TRICHY",
-      "substation": "AMBIKAPURAM 110/33-11 KV",
-      "feeder": "AMBIKAPURAM 110/33-11 KV",
-      "location_text": "ARIYAMANGALAM,KATTUR,SANGILIYANDAPURAM,KALKANDAR KOTTAI,MALAYAPPA NGR,VALLUVAR NGR,MILITRY CLY,MUTHUMANITOWN 1-12 CROSS.",
-      "work_type": "MONTHLY MAINTENANCE",
-      "from_time": "09:45",
-      "to_time": "16:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "TRICHY",
-      "substation": "THIRUVERUMBUR 110 /11 KV SS",
-      "feeder": "THIRUVERUMBUR 110 /11 KV SS",
-      "location_text": "POLICE COLONY,PERIYA SURIYUR,ANNA NGR,KUMBAKUDI,ARASU COLONY,VENGUR,SELVAPURAM,GUNDUR,IYYAMPATTY,RSK NGR,SOLAMADEVI,KANTHALOOR,SURIYUR,BHARATHI PURAM,GANESHA",
-      "work_type": "MONTHLY MAINTENANCE",
-      "from_time": "09:45",
-      "to_time": "16:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "TRICHY",
-      "substation": "L.ABISHEKAPURAM 33/11 KV  SS",
-      "feeder": "L.ABISHEKAPURAM 33/11 KV  SS",
-      "location_text": "PARAMASIVAPURAM,A K NGR,IDAIYATRUMANGALAM,TV NGR,AANTHIMEDU,THIRUMANAMEDU,MUMOODICHALAMANGALAM,THANEERBANTHAL,SATHAMANGALAM,VARATHAJAN NGR.",
-      "work_type": "MONTHLY MAINTENANCE",
-      "from_time": "09:45",
-      "to_time": "16:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "Thaluthalaimedu",
-      "substation": "THALUTHALAIMEDU 33/11 KV SS",
-      "feeder": "THALUTHALAIMEDU 33/11 KV SS",
-      "location_text": "UdayanathamPILLAIPALYAMG.K.PURAM",
-      "work_type": "Maintenance work",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "Thiruppanadhal",
-      "substation": "THIRUPPANANDHAL 110 KV",
-      "feeder": "THIRUPPANANDHAL 110 KV",
-      "location_text": "Thiruppanadhal,Cholapuram",
-      "work_type": "Monthly maintenance,",
+      "date": "2026-08-04",
+      "town": "Alangkottai, Kandithampettai ,Keelathirupalakudi",
+      "substation": "ULLIKOTTAI",
+      "feeder": "ALANGKOTTAI",
+      "location_text": "Alangkottai, Kandithampettai ,Keelathirupalakudi",
+      "work_type": "Monthly Maintenance",
       "from_time": "09:00",
       "to_time": "15:00"
     },
     {
-      "date": "2026-08-01",
-      "town": "Thiruppurambiyam",
-      "substation": "THIRUPPURAMBIAM",
-      "feeder": "THIRUPPURAMBIAM",
-      "location_text": "Thiruppurambiyam,Swamimalai",
-      "work_type": "Monthly maintenance,",
+      "date": "2026-08-04",
+      "town": "Alivalam, Keerakalur, Vanniyadi komal, Vickirapandiyam",
+      "substation": "THIRUTHURAIPOONDI",
+      "feeder": "VADAKOVANOOR",
+      "location_text": "Vadakovanur, Alivalam, Keerakalur, Vanniyadi komal, Vickirapandiyam",
+      "work_type": "Monthly Maintenance",
       "from_time": "09:00",
       "to_time": "15:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "UTHUMALAI",
-      "substation": "UTHUMALAI",
-      "feeder": "UTHUMALAI",
-      "location_text": "UTHUMALAI, KEELAKALANGAL, KURINJANKULAM, MELA MARUTHAPURAM, SOLAI SERI, KARUVANTHA, AMUTHAPURAM, MAVILIYOOTHU, KALLATHIKULAM, KANGANAKINARU, RUKKUMANIYALPURAM, ALANGULAM, AANDIPATTI, NALLUR, SIVALARK",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "Uthamapalayam",
-      "substation": "UTHAMAPALAYAM 110 KV",
-      "feeder": "UTHAMAPALAYAM 110 KV",
-      "location_text": "Town Uthamapalayam, Ambasamuthiram, Rayyappanpatty, Pannaipuram, Vallayankulam and its surrounding areas",
-      "work_type": "Maintenance Works",
-      "from_time": "10:37",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "VEERAVANALLUR",
-      "substation": "VEERAVANALLUR 110 KV",
-      "feeder": "VEERAVANALLUR 110 KV",
-      "location_text": "AALVANTHULUKAPATTI, OTHULUKAPATTI, SENGULAM, KABALIPAARAI, IDAIKAAL, ANAINTHA NAADARPATTI, THALAIYUTHU, PANAYANKURICHI, NAALANGATTALAI, KEELAKUTHAPANJAN, KASITHARMAM, MUKKUDAL, SINGAPAARAI, KALIDAIKUR",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "VERASINGAMANI",
-      "substation": "VEERASIGAMANI 110 KV",
-      "feeder": "VEERASIGAMANI 110 KV",
-      "location_text": "VEERASIGAMANI, PATTADAIKATTI, ARUNACHALAPURAM, ARIYANAYAGIPURAM, PAAMBU KOIL, VENDRILINGAPURAM, THIRUMALAPURAM, VADANATHAMPATTI, SERNTHAMARAM, NADUVAKURICHI",
-      "work_type": "MAINTANENCE WORK",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "karur",
-      "substation": "THANTHONIMALAI",
-      "feeder": "THANTHONIMALAI",
-      "location_text": "Thanthonimalai,Sungagate,Manavadi,Gandhigrammam,Kathalapatty,Kannimarpalayam,Pasupathipalayam,Aamur,Minnagar,Aachimangalam,Rayanur,Koraavapatty,PAganatham,Pathampatty,Sellandipalayam",
-      "work_type": "substation maintennace work",
-      "from_time": "09:00",
-      "to_time": "17:00"
-    },
-    {
-      "date": "2026-08-01",
-      "town": "vaigaidam",
-      "substation": "VAIGAI DAM 110 KV",
-      "feeder": "VAIGAI DAM 110 KV",
-      "location_text": "Vaigai dam, Jayamangalam, Jumpuliputhur, Kullapuram and its Surrounding areas",
-      "work_type": "Maintenance Works",
-      "from_time": "10:37",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-03",
-      "town": "PERALI",
-      "substation": "PERALI",
-      "feeder": "PERALI",
-      "location_text": "PERALI,KALPADI,ASOOR,K.PUTHUR",
-      "work_type": "Maintenance work",
-      "from_time": "09:00",
-      "to_time": "14:00"
-    },
-    {
-      "date": "2026-08-03",
-      "town": "Rasingapuram",
-      "substation": "RASINGAPURAM 110 KV",
-      "feeder": "RASINGAPURAM 110 KV",
-      "location_text": "Paragon,Silamalai,T.R.puram,S.R.Puram & Soolapuram and its surrounding areas",
-      "work_type": "Maintenance Works",
-      "from_time": "10:00",
-      "to_time": "16:00"
     },
     {
       "date": "2026-08-04",
@@ -381,6 +41,46 @@
       "work_type": "Substation maintenance work and line maintenance work",
       "from_time": "09:00",
       "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Andal Street, South Street, Keezha Sannathi Street.",
+      "substation": "THIRUVARUR URBAN 33/11 KV SS",
+      "feeder": "ANDAL STREET",
+      "location_text": "Andal Street, South Street, Panagal Salai, Kumarakovil Street, Keezha Sannathi Street.",
+      "work_type": "Monthly Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Asaripallam",
+      "substation": "Asaripallam",
+      "feeder": "Asaripallam",
+      "location_text": "Asaripallam, Ananthannagar, Konam, Pazhavilai, Santhapuram",
+      "work_type": "Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Chemponvilai",
+      "substation": "CHEMPONVILAI 110 /11KV",
+      "feeder": "CHEMPONVILAI 110 /11KV",
+      "location_text": "Thingal Nagar,Reethapuram,Eraniel,Neyyoor,Kurupanai, palapallam",
+      "work_type": "Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Chemponvilai",
+      "substation": "CHEMPONVILAI 110 /11KV",
+      "feeder": "CHEMPONVILAI 110 /11KV",
+      "location_text": "Mandaicaud,Vellimalai,Thingal Nagar,Manavalakurichi",
+      "work_type": "Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
     },
     {
       "date": "2026-08-04",
@@ -401,6 +101,46 @@
       "work_type": "Monthly maintenance works",
       "from_time": "09:00",
       "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Easanakudi, Kalapal Thirupathur Road, Keezhapanayur",
+      "substation": "KOTTUR 33 KV SS",
+      "feeder": "KUMARAMANGALAM",
+      "location_text": "Easanakudi, Kalapal Thirupathur Road, Keezhapanayur",
+      "work_type": "Monthly Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Gowrivakkam",
+      "substation": "MADAMBAKKAM",
+      "feeder": "K.K SALAI",
+      "location_text": "Kannadasan Street, Karunanithi street   (1 to 7) Visalakshi Nagar, John Street, Thomas St, Viganarajapuram 6th st, Kobalapuram Nagar, Viganarajapuram  Mohi Florence & Guru Ganesh nagar,Parthasarathi N",
+      "work_type": "Maintenance Work",
+      "from_time": "09:00",
+      "to_time": "14:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "KOODANKULAM",
+      "substation": "KOODANKULAM 110 KV",
+      "feeder": "KOODANKULAM 110 KV",
+      "location_text": "KOODANKULAM, IDINTHAKARAI, VIJAYAPATHI, AVUDAIYALPURAM, IRUKANTHURAI, SRI RENGA NARAYANA PURAM, TANTHAL, SANGANERI,  VAIRAVI KINARU, THOMAS MANDAPAM, SAAMAIYARPURAM",
+      "work_type": "MAINTANENCE WORK",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Karungal",
+      "substation": "KARUNGAL 110/11 KV SS",
+      "feeder": "KARUNGAL 110/11 KV SS",
+      "location_text": "Unnamalaikadai,Karungal,Killioor,Keelkulam,Kallukuttam,Kothanallur,Ponmanai,Pallapalam,Kappiyarai",
+      "work_type": "Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
     },
     {
       "date": "2026-08-04",
@@ -434,6 +174,46 @@
     },
     {
       "date": "2026-08-04",
+      "town": "Medavakkam",
+      "substation": "PERUMBAKKAM 110 KV",
+      "feeder": "T.C.S PERUMBAKKAM",
+      "location_text": "Sekaran Mall , Kailash Nagar, Sri Perumal Nagar, Antony Nagar, Bajanai koil st perumpakkam, Nookampalayam Road",
+      "work_type": "Maintenance Work",
+      "from_time": "09:00",
+      "to_time": "14:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Moolamangalam,  Andipandhal,  Kuvalikkal,  Kakkakottur.",
+      "substation": "NANNILAM 33 KV",
+      "feeder": "KANGALANCHERY",
+      "location_text": "Moolamangalam,  Andipandhal,  Kuvalikkal,  Kakkakottur.",
+      "work_type": "Monthly Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Muttam",
+      "substation": "MUTTAM INDOOR 33/11 KV SS",
+      "feeder": "MUTTAM INDOOR 33/11 KV SS",
+      "location_text": "Vellichanthai, Thirunainarkurichy, Muttam, Kallukatti, Saral, Kollamavadi",
+      "work_type": "Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Nagercoil",
+      "substation": "NAGERCOIL 110 KV",
+      "feeder": "NAGERCOIL 110 KV",
+      "location_text": "Peruvilai, Asaripallam, Parvathipuram, Alamparai",
+      "work_type": "Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-04",
       "town": "Nariganapuram",
       "substation": "NARIGANAPURAM 110/33-11 KV SS",
       "feeder": "NARIGANAPURAM 110/33-11 KV SS",
@@ -441,6 +221,36 @@
       "work_type": "Monthly maintenance works",
       "from_time": "09:00",
       "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "PERUMALPURAM",
+      "substation": "NEW BUS STAND SS",
+      "feeder": "NEW BUS STAND SS",
+      "location_text": "PERUMALPURAM, POTHIGAI NAGAR, NGO A COLONY, MAGILCHI NAGAR, THIRUNAGAR, THIRUMAL NAGAR, GOVT ENGINEERING COLLEGE, NEW BUS STAND AREAS",
+      "work_type": "MAINTANENCE WORK",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Pachakulam",
+      "substation": "110/33-11KV  NEEDAMANGALAM",
+      "feeder": "PACHAKULAM",
+      "location_text": "Pachakulam",
+      "work_type": "Monthly Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Pallikaranai",
+      "substation": "PALLIKARANAI SS",
+      "feeder": "KRISHNA NAGAR",
+      "location_text": "Rajalakshmi Nagar, Vallal Pari Nagar, Sai Balaji Nagar, Krishna Nagar, Thulukathamman Koil Main Road, Arun Nagar, Venkateswara Nagar, Jayapal Nagar, Mallekeswaran Nagar, Aathisami Nagar",
+      "work_type": "Maintenance Work",
+      "from_time": "09:00",
+      "to_time": "14:00"
     },
     {
       "date": "2026-08-04",
@@ -454,6 +264,26 @@
     },
     {
       "date": "2026-08-04",
+      "town": "Pulivalam, Mangudi, Thennavarayanallur Thiruneiper.",
+      "substation": "THIRUVARUR 110 KV",
+      "feeder": "MAVOOR",
+      "location_text": "Pulivalam, Koodur, Naranamangalam,Mangudi, Thennavarayanallur Thiruneiper.",
+      "work_type": "Monthly Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "REDDIYARPATTI",
+      "substation": "REDDIARPATTI 33 KV",
+      "feeder": "REDDIARPATTI 33 KV",
+      "location_text": "REDDIYARPATTI, TUKKERAMMALPURAM, KONGANTHANPAARAI, PONNAKUDI, ADAI MATHIPANKULAM, SENGULAM, ETTERI AND THAMARAI SELVI",
+      "work_type": "MAINTANENCE WORK",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-04",
       "town": "Sathuvachari",
       "substation": "110/11 KV SATHUVACHARI SS",
       "feeder": "110/11 KV SATHUVACHARI SS",
@@ -461,6 +291,46 @@
       "work_type": "Maintenance",
       "from_time": "09:00",
       "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Sellur, Thirukkalamputhur, Keeranthakudi,  Oorgudi.",
+      "substation": "KORADACHERY 33 KV",
+      "feeder": "MUGANTHANOOR",
+      "location_text": "Sellur, Thirukkalamputhur, Keeranthakudi,  Oorgudi.",
+      "work_type": "Monthly Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "TRICHY",
+      "substation": "SIRUGANUR  110/22 KV SS",
+      "feeder": "SIRUGANUR  110/22 KV SS",
+      "location_text": "THIRUPPUR,REDDIMANGUDY,MRPALAYAM,OODATHUR,NEDUNTHUR,NAMBAKURICHI,NEILULAM,MANIYAKURICHI,SADAMANGALAM",
+      "work_type": "Monthly  Maintenance  work",
+      "from_time": "09:45",
+      "to_time": "16:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "TRICHY",
+      "substation": "THUVARANKURICHY 110/11 KV SS",
+      "feeder": "THUVARANKURICHY 110/11 KV SS",
+      "location_text": "PANCHAYATH,SEVANTHAMPATTY,SADAVELAMPATTY,ATHIKARAM,AALAM PATTY, THETHUR,USILAMPATTY,ALAGAPURI,AKKIYAM PATTY,RAMAYAPURI,PIDARIPATTY,IKKIYAKURICHI,KARAPATTY,KALLAKKAM PATTY,VELA KURICHI,KARADIPATTY",
+      "work_type": "Monthly  Maintenance  work",
+      "from_time": "09:45",
+      "to_time": "16:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Thadikarankonam",
+      "substation": "THADIKKARANKONAM 33 KV",
+      "feeder": "THADIKKARANKONAM 33 KV",
+      "location_text": "Keeripari, Kadukkarai, Boothapandy",
+      "work_type": "Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
     },
     {
       "date": "2026-08-04",
@@ -494,6 +364,36 @@
     },
     {
       "date": "2026-08-04",
+      "town": "Vadasery",
+      "substation": "VADASERY 33/11 KV SS",
+      "feeder": "VADASERY 33/11 KV SS",
+      "location_text": "Vadasery, Krishnancovil, Kalunkady, College road, Dennisonroad",
+      "work_type": "Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "Vallankumaravilai",
+      "substation": "VALLANKUMARAVILAI 33 KV",
+      "feeder": "VALLANKUMARAVILAI 33 KV",
+      "location_text": "NGO Colony, Beach Road,Konam, Pallam",
+      "work_type": "Maintenance",
+      "from_time": "09:00",
+      "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "alwarkurichi",
+      "substation": "ALWARKURUCHI 33/11 KV SS",
+      "feeder": "ALWARKURUCHI 33/11 KV SS",
+      "location_text": "ALWARKURICHI, KARUTHA PILLAIYOOR, A.P. NAADANOOR, THUPPAKUDI, KALITHEERTHANPATTI, POTTALPUTHOOR, AAMBOOR, PAAPANKULAM, SAMBANKULAM, CHELLA PILLAYARKULAM",
+      "work_type": "MAINTANENCE WORK",
+      "from_time": "09:00",
+      "to_time": "14:00"
+    },
+    {
+      "date": "2026-08-04",
       "town": "karur",
       "substation": "UPPIDAMANGALAM 33/11 KV SS",
       "feeder": "UPPIDAMANGALAM 33/11 KV SS",
@@ -521,6 +421,46 @@
       "work_type": "maintenance",
       "from_time": "09:00",
       "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "melapalayam",
+      "substation": "MELAPALAYAM",
+      "feeder": "MELAPALAYAM",
+      "location_text": "MELAPALAYAM, KOTTIKULAM, BAJAR, AMBAI MAIN ROAD, SANTHAI AREAS, KULA VANIGARPURAM, CENTRAL JAIL, MAASILAMANI NAGAR, VEERAMAANIKAPURAM, NETHAJI SAALAI, HAMEEM PURAM, MELAKARUNGULAM, MUNNERPALLAM, AARAI",
+      "work_type": "MAINTANENCE WORK",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "naranapuram",
+      "substation": "NARANAPURAM",
+      "feeder": "NARANAPURAM",
+      "location_text": "THARANI NAGAR, VASUDEVA NALLUR, SANGANAPERI, THIRUMALAPURAM, KOODALUR, RAMANATHAPURAM, SANGUPURAM, KEELAPUTHOOR, NEL KATTUM SEVAL, SUBRAMANIYAPURAM, VELLALANKOTTAI, MALAYADI KURICHI, THARUGAPURAM",
+      "work_type": "MAINTANENCE WORK",
+      "from_time": "09:00",
+      "to_time": "14:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "seethaparpanallur",
+      "substation": "SEETHAPARPANALLUR",
+      "feeder": "SEETHAPARPANALLUR",
+      "location_text": "PUTHOOR, SEETHAPARPANALLUR, UGANTHANPATTI, SUBRAMANIAPURAM, SAMATHUVAPURAM, SIRUKKANKURICHI, KAANGEYANKULAM, VALLAVANKOTTAI, VELLALANKULAM, MUTHANKULAM, MAARANTHAI, KALLATHIKULAM, NAALANKURICHI, KEELA",
+      "work_type": "MAINTANENCE WORK",
+      "from_time": "09:00",
+      "to_time": "14:00"
+    },
+    {
+      "date": "2026-08-04",
+      "town": "vk puram",
+      "substation": "VICKRAMASINGAPURAM 110 / 33 -11 KV",
+      "feeder": "VICKRAMASINGAPURAM 110 / 33 -11 KV",
+      "location_text": "KAARAIYAAR, SERVALAR, VK PURAM, SIVANTHIPURAM, ADAIYAKARUNGULAM, ARUMUGAPATTI, KOTTAI VILAI PATTI, MUTHALIYARPATTI, AYYANARKULAM, THAATHANPATTI, KONDAYANPATTI, PASUKIDAI VILAI, SANKARA PANDIAPURAM, TH",
+      "work_type": "MAINTANENCE WORK",
+      "from_time": "09:00",
+      "to_time": "14:00"
     },
     {
       "date": "2026-08-05",
@@ -3474,6 +3414,16 @@
     },
     {
       "date": "2026-08-29",
+      "town": "Anuppu",
+      "substation": "110/33-11KV  ANUPPU SS",
+      "feeder": "110/33-11KV  ANUPPU SS",
+      "location_text": "anuppu,Paradharami",
+      "work_type": "Substation maintenance work and line maintenance work",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
       "town": "Arasur",
       "substation": "ARASUR  33/11 KV",
       "feeder": "ARASUR  33/11 KV",
@@ -3514,6 +3464,16 @@
     },
     {
       "date": "2026-08-29",
+      "town": "Kandhili",
+      "substation": "KANDHILI 33 KV",
+      "feeder": "KANDHILI 33 KV",
+      "location_text": "Kandhili,lackinayaikanpatty,Veepalnatham,Puthagaram,Kothalakottai,Nandhibenda,Asceptic",
+      "work_type": "Substation maintenance work and line maintenance work",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
       "town": "Kilvelur",
       "substation": "Kilvelur 33/11KV",
       "feeder": "Kilvelur 33/11KV",
@@ -3531,6 +3491,16 @@
       "work_type": "Monthly maintenance,",
       "from_time": "09:00",
       "to_time": "15:00"
+    },
+    {
+      "date": "2026-08-29",
+      "town": "Kurisilapet",
+      "substation": "KURUSILAPET 33 KV",
+      "feeder": "KURUSILAPET 33 KV",
+      "location_text": "Kurisilapet,Moolakadu,Chinnasamudiram,Andhiyapanur,Karumbur",
+      "work_type": "Substation maintenance work and line maintenance work",
+      "from_time": "09:00",
+      "to_time": "17:00"
     },
     {
       "date": "2026-08-29",
@@ -3614,11 +3584,21 @@
     },
     {
       "date": "2026-08-29",
-      "town": "Nagapattinam",
-      "substation": "NAGAI URBAN  33/11 KV",
-      "feeder": "NAGAI URBAN  33/11 KV",
-      "location_text": "Dharga,Hospital,Vangaramavady,Collectorate",
-      "work_type": "Maintanance",
+      "town": "Modikuppam",
+      "substation": "MODIKUPPAM/33KV SS",
+      "feeder": "MODIKUPPAM/33KV SS",
+      "location_text": "Modikuppam,Synakunda,Sengundram,R.Gollapally",
+      "work_type": "Substation maintenance work and line maintenance work",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
+      "town": "Morasapally",
+      "substation": "MORASAPALLY",
+      "feeder": "MORASAPALLY",
+      "location_text": "Morasapally,Pudur,Erthangal,Nalanganallur,T.T.Mottur,Kamalapuram",
+      "work_type": "Substation maintenance work and line maintenance work",
       "from_time": "09:00",
       "to_time": "17:00"
     },
@@ -3628,6 +3608,16 @@
       "substation": "NAGAPPATTINAM 110 KV",
       "feeder": "NAGAPPATTINAM 110 KV",
       "location_text": "Town,Velanganni,Thittacherry,Express,Velipalayam,Paravai,Sikkal,Nagore,Waterworks,Akkaraipettai,NagaiURban,Vettaikaraniruppu,Kilvelur",
+      "work_type": "Maintanance",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
+      "town": "Nagapattinam",
+      "substation": "NAGAI URBAN  33/11 KV",
+      "feeder": "NAGAI URBAN  33/11 KV",
+      "location_text": "Dharga,Hospital,Vangaramavady,Collectorate",
       "work_type": "Maintanance",
       "from_time": "09:00",
       "to_time": "17:00"
@@ -3674,6 +3664,26 @@
     },
     {
       "date": "2026-08-29",
+      "town": "Paradarami",
+      "substation": "PARADARAMI 33 KV",
+      "feeder": "PARADARAMI 33 KV",
+      "location_text": "Paradarami,Kothur,Poojarivalasai,Ramapuram",
+      "work_type": "Substation maintenance work and line maintenance work",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
+      "town": "Paravakkal",
+      "substation": "PARAVAKKAL 110/33-11 KV SS",
+      "feeder": "PARAVAKKAL 110/33-11 KV SS",
+      "location_text": "Paravakkal,Kargoor,Mordhana,Meenur,Kulithigai,Sendathur",
+      "work_type": "Substation maintenance work and line maintenance work",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
       "town": "Pasur",
       "substation": "PASUR 110/22-11 KV SS",
       "feeder": "PASUR 110/22-11 KV SS",
@@ -3701,6 +3711,16 @@
       "work_type": "TSD maintenance",
       "from_time": "09:00",
       "to_time": "14:00"
+    },
+    {
+      "date": "2026-08-29",
+      "town": "Pitchanoor",
+      "substation": "PITCHANOOR 33/11 KV SS",
+      "feeder": "PITCHANOOR 33/11 KV SS",
+      "location_text": "Pitchanoor,Bodipettai,Dharnampet,Bhuvaneswarpet",
+      "work_type": "Substation maintenance work and line maintenance work",
+      "from_time": "09:00",
+      "to_time": "17:00"
     },
     {
       "date": "2026-08-29",
@@ -3764,11 +3784,31 @@
     },
     {
       "date": "2026-08-29",
+      "town": "Pudurnadu",
+      "substation": "PUDURNADU 33/11 KV SS",
+      "feeder": "PUDURNADU 33/11 KV SS",
+      "location_text": "Pudurnadu,Kambukudi,vazhuthalambut,Nellivasal,Kallavoor",
+      "work_type": "Substation maintenance work and line maintenance work",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
       "town": "SIPCOT",
       "substation": "110/11 KV SIPCOT SS",
       "feeder": "110/11 KV SIPCOT SS",
       "location_text": "Ranipet,BHEL,Agravaram,Vanambadi,Thandalam,Chetithangal and Sipcot surrounding areas",
       "work_type": "Maintenance work",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
+      "town": "Sedukkarai",
+      "substation": "SEDHUKKARAI 33 KV",
+      "feeder": "SEDHUKKARAI 33 KV",
+      "location_text": "Sedukkarai,Pudupet,Telecomarea,Seruvangi,Sandapettai",
+      "work_type": "Substation maintenance work and line maintenance work",
       "from_time": "09:00",
       "to_time": "17:00"
     },
@@ -3835,10 +3875,30 @@
     {
       "date": "2026-08-29",
       "town": "Tirupattur",
+      "substation": "TIRUPATTUR 33 KV",
+      "feeder": "TIRUPATTUR 33 KV",
+      "location_text": "Tirupattur,Asiriyar nagar,Thiriyalam,Pachal,Achamangalam,Karupanur",
+      "work_type": "Maintenance Work",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
+      "town": "Tirupattur",
       "substation": "THIRUPATHUR 110 KV",
       "feeder": "THIRUPATHUR 110 KV",
       "location_text": "Tirupattur, CK Asharm, Vengalapuram, Madavalam, Kottai, Kurisilapet",
       "work_type": "maintenance",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
+      "town": "Upparapalli",
+      "substation": "UPPARAPALLY 33",
+      "feeder": "UPPARAPALLY 33",
+      "location_text": "Upparapally,Perummbadi,Thattaparai,Moongapattu,Gittapalli,Meenur,Mordhana,Chinnapalli",
+      "work_type": "Substation maintenance work and line maintenance work",
       "from_time": "09:00",
       "to_time": "17:00"
     },
@@ -3859,6 +3919,16 @@
       "feeder": "VELANKANNI 33/11 KV",
       "location_text": "P.R.Puram,VelankanniTown-I,II,Gramaththumedu",
       "work_type": "Maintanance",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
+      "town": "Vellakalnatham",
+      "substation": "VELAKKALNATHAM 33 KV SS",
+      "feeder": "VELAKKALNATHAM 33 KV SS",
+      "location_text": "Vellalkkalnatham,Cheteridam,Mallapalli,Jayapuram",
+      "work_type": "Substation maintenance work and line maintenance work",
       "from_time": "09:00",
       "to_time": "17:00"
     },
@@ -3889,6 +3959,26 @@
       "feeder": "33/11 KV UM WALAJA",
       "location_text": "Walaja Town, Vannivedu, Kadapanthangal and Walaj Surrounding area.",
       "work_type": "Maintenance work",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
+      "town": "karur",
+      "substation": "Renganadhapuram 33/11",
+      "feeder": "Renganadhapuram 33/11",
+      "location_text": "karudaiyampalayam, K.Paramathi, Nedunkur",
+      "work_type": "substation maintennace work",
+      "from_time": "09:00",
+      "to_time": "17:00"
+    },
+    {
+      "date": "2026-08-29",
+      "town": "karur",
+      "substation": "MALAIKOVILUR 110 KV",
+      "feeder": "MALAIKOVILUR 110 KV",
+      "location_text": "malaikovilur,chellipalayam,kanagapuri,kethampatty,kovilur,chinnakariyampatty,periyakariyampatty,senbaganam,varikapatty,madu reddipatty,moolapatty,nallakumaranpatty,nagamballi,K.Venkatapuram",
+      "work_type": "substation maintennace work",
       "from_time": "09:00",
       "to_time": "17:00"
     },
@@ -3934,21 +4024,11 @@
     },
     {
       "date": "2026-08-29",
-      "town": "karur",
-      "substation": "Renganadhapuram 33/11",
-      "feeder": "Renganadhapuram 33/11",
-      "location_text": "karudaiyampalayam, K.Paramathi, Nedunkur",
-      "work_type": "substation maintennace work",
-      "from_time": "09:00",
-      "to_time": "17:00"
-    },
-    {
-      "date": "2026-08-29",
-      "town": "karur",
-      "substation": "MALAIKOVILUR 110 KV",
-      "feeder": "MALAIKOVILUR 110 KV",
-      "location_text": "malaikovilur,chellipalayam,kanagapuri,kethampatty,kovilur,chinnakariyampatty,periyakariyampatty,senbaganam,varikapatty,madu reddipatty,moolapatty,nallakumaranpatty,nagamballi,K.Venkatapuram",
-      "work_type": "substation maintennace work",
+      "town": "pakkam",
+      "substation": "PAKKAM 110 KV",
+      "feeder": "PAKKAM 110 KV",
+      "location_text": "Pakkam,Gudiyatham,Nellorepet,Keelalathur,Modikuppam,Pitchanoor,Bodipet,Paradarami,Seddukkarai,Modikuppam,Seruvangi,Sandapet,Synagunda",
+      "work_type": "Substation maintenance work and line maintenance work",
       "from_time": "09:00",
       "to_time": "17:00"
     },
